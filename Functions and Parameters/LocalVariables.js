@@ -1,0 +1,1 @@
+/* A local variable is a variable declared inside a block of code. The scope of a local variable starts at the point of its declaration and ends at the end of this block.*/
